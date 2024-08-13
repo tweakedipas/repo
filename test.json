@@ -29,15 +29,6 @@
                   "size": 4232682,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
-                },
-                {
-                  "version": "98.0",
-                  "date": "2024-07-01",
-                  "localizedDescription": "test2 ver",
-                  "downloadURL": "https://github.com/tweakedipas/repo/raw/main/1_0.ipa",
-                  "size": 4232682,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
                 }
               ],
             "appPermissions": {}
