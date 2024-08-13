@@ -6,7 +6,11 @@
     "headerURL": "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true",
     "website": "https://t.me/tamir46",
     "tintColor": "#F54F32",
-    "featuredApps": ["com.itimeteo.webssh,fi.twomenandadog.zombiecatchers,com.alliancethegame.alliance.airwar"],
+    "featuredApps": [
+        "com.itimeteo.webssh",
+        "fi.twomenandadog.zombiecatchers",
+        "com.alliancethegame.alliance.airwar"
+    ],
     "apps": [
         {
             "name": "TESTing app.ipa",
@@ -22,23 +26,24 @@
             ],
             "versions": [
                 {
-                  "version": "99.0",
-                  "date": "2024-07-01",
-                  "localizedDescription": "test ver",
-                  "downloadURL": "https://github.com/tweakedipas/repo/blob/bedcefc186b8451004a365d650185ba1f6b573ed/test.ipa",
-                  "size": 4232682,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
+                    "version": "99.0",
+                    "date": "2024-07-01",
+                    "localizedDescription": "test ver",
+                    "downloadURL": "https://github.com/tweakedipas/repo/blob/bedcefc186b8451004a365d650185ba1f6b573ed/test.ipa",
+                    "size": 4232682,
+                    "minOSVersion": "14.0",
+                    "maxOSVersion": "17.0"
                 },
                 {
-                  "version": "89.0",
-                  "date": "2023-07-01",
-                  "localizedDescription": "test ver2 now with nothing but lies",
-                  "downloadURL": "https://github.com/tweakedipas/repo/raw/main/1_0.ipa",
-                  "size": 445056,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "16.8"
-                }]
+                    "version": "89.0",
+                    "date": "2023-07-01",
+                    "localizedDescription": "test ver2 now with nothing but lies",
+                    "downloadURL": "https://github.com/tweakedipas/repo/raw/main/1_0.ipa",
+                    "size": 445056,
+                    "minOSVersion": "14.0",
+                    "maxOSVersion": "16.8"
+                }
+            ]
         },
         {
             "name": "Alliance: Air War-tweakedipas",
@@ -47,55 +52,60 @@
             "subtitle": "SatellaJailed",
             "localizedDescription": "",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/e9/a4/5ce9a4dc-845a-ccc2-fa45-99cf016d04b4/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/350x350bb.jpg",
-            "tintColor": "#F54F32",  
+            "tintColor": "#F54F32",
             "versions": [
                 {
-                  "version": "27.2",
-                  "date": "2024-07-01",
-                  "localizedDescription": "tweakedipas free in-app purchases",
-                  "downloadURL": "https://download.starfiles.co/file/27023c24a25c",
-                  "size": 259335298,
-                  "minOSVersion": "11.0",
-                  "maxOSVersion": "17.0"
-                }]
+                    "version": "27.2",
+                    "date": "2024-07-01",
+                    "localizedDescription": "tweakedipas free in-app purchases",
+                    "downloadURL": "https://download.starfiles.co/file/27023c24a25c",
+                    "size": 259335298,
+                    "minOSVersion": "11.0",
+                    "maxOSVersion": "17.0"
+                }
+            ]
         },
-        {   "name": "WebSSH",
+        {
+            "name": "WebSSH",
             "bundleIdentifier": "com.itimeteo.webssh",
             "developerName": "Art of the State LLC",
             "subtitle": "SatellaJailed",
             "localizedDescription": "SysAdmin Tools",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/ae/18/c1ae181c-e87d-607f-0efb-fe02580e1139/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/350x350bb.jpg",
-            "tintColor": "#F54F32",  
+            "tintColor": "#F54F32",
             "versions": [
                 {
-                  "version": "4.1.8",
-                  "date": "2024-07-01",
-                  "localizedDescription": "tweakedipas free in-app purchases",
-                  "downloadURL": "https://download.starfiles.co/6880f989027c",
-                  "size": 29897570,
-                  "minOSVersion": "16.6",
-                  "maxOSVersion": "18.0"
-                }]
-        },   
-        {   "name": "Zombie Catchers : Hunt & sell",
+                    "version": "4.1.8",
+                    "date": "2024-07-01",
+                    "localizedDescription": "tweakedipas free in-app purchases",
+                    "downloadURL": "https://download.starfiles.co/6880f989027c",
+                    "size": 29897570,
+                    "minOSVersion": "16.6",
+                    "maxOSVersion": "18.0"
+                }
+            ]
+        },
+        {
+            "name": "Zombie Catchers : Hunt & sell",
             "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
             "developerName": "Two Men and a Dog",
             "subtitle": "ADblock",
             "localizedDescription": "",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/1d/3c/041d3c50-ea48-a34a-9f77-2cf580930dc0/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/350x350bb.jpg",
-            "tintColor": "#F54F32",  
+            "tintColor": "#F54F32",
             "versions": [
                 {
-                  "version": "1.39.13",
-                  "date": "2024-07-01",
-                  "localizedDescription": "tweakedipas free in-app purchases",
-                  "downloadURL": "https://download.starfiles.co/file/858a0ac12a44",
-                  "size": 86639494,
-                  "minOSVersion": "12.0",
-                  "maxOSVersion": "18.0"
-                }]
-        },   
-            ],
-            "appPermissions": {}
+                    "version": "1.39.13",
+                    "date": "2024-07-01",
+                    "localizedDescription": "tweakedipas free in-app purchases",
+                    "downloadURL": "https://download.starfiles.co/file/858a0ac12a44",
+                    "size": 86639494,
+                    "minOSVersion": "12.0",
+                    "maxOSVersion": "18.0"
+                }
+            ]
+        }
+    ],
+    "appPermissions": {},
     "news": []
-  }
+}
