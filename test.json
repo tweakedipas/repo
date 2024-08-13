@@ -30,6 +30,15 @@
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
                 }
+                {
+                  "version": "98.0",
+                  "date": "2024-08-01",
+                  "localizedDescription": "test ver",
+                  "downloadURL": "https://github.com/tweakedipas/repo/blob/bedcefc186b8451004a365d650185ba1f6b573ed/test.ipa",
+                  "size": 4232682,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
               ],
             "appPermissions": {}
         }
