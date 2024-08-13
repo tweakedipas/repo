@@ -29,6 +29,15 @@
                   "size": 4232682,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
+                },
+                {
+                  "version": "89.0",
+                  "date": "2023-07-01",
+                  "localizedDescription": "test ver2 now with nothing but lies",
+                  "downloadURL": "https://github.com/tweakedipas/repo/raw/main/1_0.ipa",
+                  "size": 445056,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "16.8"
                 }
               ],
             "appPermissions": {}
