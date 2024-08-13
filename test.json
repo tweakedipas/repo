@@ -34,7 +34,7 @@
                   "version": "98.0",
                   "date": "2024-08-01",
                   "localizedDescription": "test ver",
-                  "downloadURL": "https://github.com/tweakedipas/repo/blob/bedcefc186b8451004a365d650185ba1f6b573ed/test.ipa",
+                  "downloadURL": "https://github.com/tweakedipas/repo/raw/main/1_0.ipa",
                   "size": 4232682,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
@@ -45,3 +45,77 @@
     ],
     "news": []
   }
+
+
+
+
+
+
+
+
+"versions": [
+                {
+                    "version": "19.30.2",
+                    "date": "2024-08-05T21:48:00-07:00",
+                    "localizedDescription": "• Requires iOS/iPadOS 15.0 or later.\n• Added option to disable Google sign-in fix.\n• Full changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.20.2-3.0.4-(150)...v19.30.2-3.0.4\n• YouTube v19.30.2: Bug fixes, stability improvements, repairs to space-time continuum.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/pxhcfybj4b589p1jmmn6s/uYouPlus_19.30.2-3.0.4.ipa?rlkey=dv2kwjdk1hrrdp3t1vv1l16mh&st=cg7fei76&dl=1",
+                    "size": 120185514,
+                    "minOSVersion": "15.0"
+                },
+                {
+                    "version": "19.20.2",
+                    "date": "2024-07-01T11:01:00-07:00",
+                    "localizedDescription": "• uYou v3.0.4\n• Fixed blank home page issue caused by uYou's adblock (switched to YouTube-X for adblocking)\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.17.2-3.0.3-(139)...v19.20.2-3.0.4-(150)\n• YouTube v19.20.2: Fixed bugs, improved performance, drank way too much coffee.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/l4l8fgtvt0t0shmoc5lc2/uYouPlus_19.20.2-3.0.4.ipa?rlkey=7tlmig84z8f7vfa7jbsyk344s&st=vugdw7gy&dl=1",
+                    "size": 126425271
+                },
+                {
+                    "version": "19.17.2",
+                    "date": "2024-04-30T19:30:00-07:00",
+                    "localizedDescription": "• Fixed crash when trying to play video\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.16.3-3.0.3-(138)...v19.17.2-3.0.3-(139)\n• YouTube v19.17.2: We fixed the tubes that bring you videos – and some bugs too.",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/tov3j3qsl0ura9tsrkrka/uYouPlus_19.17.2-3.0.3.ipa?rlkey=cee06bo5vymx9oqt7ox0v2krs&st=8ggqrnqy&dl=1",
+                    "size": 128197362
+                },
+                {
+                    "version": "19.16.3",
+                    "date": "2024-04-21T20:40:00-07:00",
+                    "localizedDescription": "• Fixed bug report URLs for uYouPlus and DontEatMyContent\n• YouTube v19.16.3: Bug fixes, performance improvements, and more cat videos.\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.14.2-3.0.3-(134)...v19.16.3-3.0.3-(138)",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/r9awfh37zvf1t7ftd4gmu/uYouPlus_19.16.3-3.0.3.ipa?rlkey=8jd3lfhvnvxczkz4uhwq56js3&st=z25pk0ln&dl=1",
+                    "size": 127886969
+                },
+                {
+                    "version": "19.14.2",
+                    "date": "2024-04-07T21:50:00-07:00",
+                    "localizedDescription": "• Various fixes for iSponsorBlock\n• YouTube v19.14.2: Fixed bugs, improved performance, drank way too much coffee.\n• Full uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.13.1-3.0.3-(131)...v19.14.2-3.0.3-(134)",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/l0gj4ff46nv93xzli475c/uYouPlus_19.14.2-3.0.3-1.ipa?rlkey=uqk8omk7pndgx6neasvxh77lb&dl=1",
+                    "size": 127692153
+                },
+                {
+                    "version": "19.13.1",
+                    "date": "2024-04-02T20:40:00-07:00",
+                    "localizedDescription": "• YouTube v19.13.1: Bug fixes, performance improvements, and took the afternoon off.\n• uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v19.12.3-3.0.3-(129)...v19.13.1-3.0.3-(131)",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/vhgv41bwdbizevdm9m31u/uYouPlus_19.13.1-3.0.3.ipa?rlkey=doug4qz42myyw4lri929hiyx7&dl=1",
+                    "size": 127524888
+                },
+                {
+                    "version": "19.12.3",
+                    "date": "2024-03-28T23:08:00-07:00",
+                    "localizedDescription": "• YouTube v19.12.3: Bug fixes, performance improvements, and more cat videos.\n• uYou 3.0.3\n• uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v18.49.3-3.0.1-(105)...v19.12.3-3.0.3-(129)",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/3p2dii8q3h3rf8tq9701m/uYouPlus_19.12.3-3.0.3.ipa?rlkey=4f5bwhme4dlsmve3xm4vtrx37&dl=1",
+                    "size": 127188824
+                },
+                {
+                    "version": "18.49.3",
+                    "date": "2023-12-25T18:04:00-08:00",
+                    "localizedDescription": "• YouTube v18.49.3: Fixed bugs, improved performance, took the afternoon off.\n• uYouPlus changelog: https://github.com/therealFoxster/uYouPlus/compare/v18.14.1-3.0-(48)...v18.49.3-3.0.1-(105)",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/qh82bekurzfkd2gwu0h5d/uYouPlus_18.49.3_3.0.1.ipa?rlkey=kgsq4b34bfvz3gr4m94ccfylh&dl=1",
+                    "size": 126413433
+                },
+                {
+                    "version": "18.14.1",
+                    "date": "2023-05-27T22:14:00-07:00",
+                    "localizedDescription": "• Fix stretched artwork in uYou's player view\n• Fix crash on startup after closing with uYou download in progress\n• Update DontEatMyContent (v1.0.6 -> v1.0.10)\n\nFull changelog: \nhttps://github.com/qnblackcat/uYouPlus/releases/tag/v18.14.1-3.0",
+                    "downloadURL": "https://www.dropbox.com/scl/fi/8kisq9n4czxfr4e2iaggo/uYouPlus_18.14.1_3.0.ipa?rlkey=o0jml66nvuc3z4lpii3gh000n&dl=1",
+                    "size": 121693569
+                }
+            ],
