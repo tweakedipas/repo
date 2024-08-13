@@ -3,21 +3,20 @@
     "identifier": "org.tweakedipas.repo",
     "subtitle": "test tweakedipas repo",
     "description": "just a test",
+    "sourceURL": "https://github.com/tweakedipas/repo/blob/47ec8fcf2442addea9941d59f35a83c567b25145/test.json",
     "website": "https://t.me/tamir46",
-    "iconURL": "https://t.me/tamir46/55",
-    "tintColor": "D85240",
     "apps": [
-        {
-            "id": "test app",
+    {
             "name": "iSH.ipa",
             "bundleIdentifier": "app.ish.iSH",
             "developerName": "Various Developers",
             "subtitle": "ish linux in you pocket",
             "version": "1.0",
-            "size": 126425271,
+            "size": 4232682,
             "versionDate": "2024-07-01T11:01:00-07:00",
             "versionDescription": "test v1.0",
-            "downloadURL": "https://t.me/tamir46/46"
-            
-        }  ]
+            "downloadURL": "https://github.com/tweakedipas/repo/blob/bedcefc186b8451004a365d650185ba1f6b573ed/test.ipa"
+    }
+    {
+  ]
 }
