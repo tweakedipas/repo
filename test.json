@@ -9,11 +9,11 @@
     "featuredApps": [],
     "apps": [
         {
-            "name": "iSH.ipa",
+            "name": "TESTing app.ipa",
             "bundleIdentifier": "app.ish.iSH",
             "developerName": "Various Developers",
             "subtitle": "ish, linux in your pocket",
-            "localizedDescription": "test",
+            "localizedDescription": "pls dont install this, its for testing only",
             "iconURL": "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true",
             "tintColor": "#F54F32",
             "screenshotURLs": [
