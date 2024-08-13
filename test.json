@@ -1,0 +1,23 @@
+{
+    "name": "test tweakedipas repo",
+    "identifier": "org.tweakedipas.repo",
+    "subtitle": "test tweakedipas repo",
+    "description": "just a test",
+    "website": "https://t.me/tamir46",
+    "iconURL": "https://t.me/tamir46/55",
+    "tintColor": "D85240",
+    "apps": [
+        {
+            "id": "test app",
+            "name": "iSH.ipa",
+            "bundleIdentifier": "app.ish.iSH",
+            "developerName": "Various Developers",
+            "subtitle": "ish linux in you pocket",
+            "version": "1.0",
+            "size": 126425271,
+            "versionDate": "2024-07-01T11:01:00-07:00",
+            "versionDescription": "test v1.0",
+            "downloadURL": "https://t.me/tamir46/46"
+            ]
+            }
+}
