@@ -6,7 +6,7 @@
     "website": "https://t.me/tamir46",
     "iconURL": "https://t.me/tamir46/55",
     "tintColor": "D85240",
-    "apps": 
+    "apps": [
         {
             "id": "test app",
             "name": "iSH.ipa",
@@ -19,5 +19,5 @@
             "versionDescription": "test v1.0",
             "downloadURL": "https://t.me/tamir46/46"
             
-            }
+        }  ]
 }
