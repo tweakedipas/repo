@@ -6,19 +6,7 @@
     "headerURL": "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true",
     "website": "https://t.me/tamir46",
     "tintColor": "#F54F32",
-    "featuredApps": [        {
-            "name": "iSH.ipa",
-            "bundleIdentifier": "app.ish.iSH",
-            "developerName": "Various Developers",
-            "subtitle": "ish, linux in your pocket",
-            "localizedDescription": "test",
-            "iconURL": "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true",
-            "tintColor": "#F54F32",
-            "screenshotURLs": [
-                "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true",
-                "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true"
-            ]
-        }],
+    "featuredApps": [],
     "apps": [
         {
             "name": "iSH.ipa",
