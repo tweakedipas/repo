@@ -38,7 +38,7 @@
                   "size": 445056,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "16.8"
-                }
+                }]
         },
         {
             "name": "Alliance: Air War-tweakedipas",
@@ -57,7 +57,7 @@
                   "size": 259335298,
                   "minOSVersion": "11.0",
                   "maxOSVersion": "17.0"
-                },
+                }]
         },
         {   "name": "WebSSH",
             "bundleIdentifier": "com.itimeteo.webssh",
@@ -75,7 +75,7 @@
                   "size": 29897570,
                   "minOSVersion": "16.6",
                   "maxOSVersion": "18.0"
-                },
+                }]
         },   
         {   "name": "Zombie Catchers : Hunt & sell",
             "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
@@ -93,7 +93,7 @@
                   "size": 86639494,
                   "minOSVersion": "12.0",
                   "maxOSVersion": "18.0"
-                },
+                }]
         },   
             ],
             "appPermissions": {}
