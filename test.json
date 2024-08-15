@@ -109,6 +109,15 @@
             "subtitle": "SatellaJailed",
             "localizedDescription": "Prism is a versatile music player for Plex and Apple Music.\n\nFEATURES\n\n- Access music already on your device or in your iCloud Music Library*, or add a free Plex account to stream your music from anywhere in the world.\n\n- Refine your library by adding one or more filters\n\n- Various options for sorting and displaying your library\n\n- 7-band equalizer\n\n- CarPlay support\n\nPayment required to unlock additional features:\n\n- Download music from your Plex server to play later without an internet connection\n\n- Automatically switch between light and dark themes\n\n- Configure default sorting for libraries, artists and albums\n\n- Import playlists from iTunes and Plex libraries\n\n* The built-in iOS music app must be installed for local or iCloud Music Library support",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/4e/6b/2a4e6b3a-b03e-d4d7-afff-fb1a487b4eab/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
+            "screenshotURLs": [
+                    "https://imgur.com/nHCgqWX",
+                    "https://imgur.com/ER6MRGc",
+                    "https://imgur.com/HHUGeUp",
+                    "https://imgur.com/FICQS33",
+                     "https://imgur.com/oglPYID",
+                     "https://imgur.com/plfXZMh",
+                     "https://imgur.com/J9Vg5cW"
+            ]
             "versions": [
                 {
                     "version": "2.6.5 ",
