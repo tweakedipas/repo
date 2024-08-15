@@ -345,6 +345,29 @@
                     "size": 18278936
                 }
             ]
+        },
+        {
+            "name": "Transmissionic",
+            "bundleIdentifier": "com.sleroy.transmissionic",
+            "developerName": "sleroy",
+            "subtitle": "credit to https://github.com/6c65726f79",
+            "localizedDescription": "Transmissionic is a free multi-platform remote for Transmission Daemon built with Ionic and Vue.js. It can be used as Web Interface, Android/iOS app and Windows/Linux/macOS program. \n\n\nManage multiple servers\nAdd torrent from local file or magnet link\nDrag & drop torrent file\nMagnet protocol support\nStart/stop/reannounce/verify/delete one or more torrents\nModify torrent's options\nSet the location of a torrent\nSelect and rename torrent's files\nEdit tracker list\nView the list of peers with country flags\nSort torrents by trackers\nOpen files in explorer\nUse presets when adding torrents",
+            "iconURL": "https://github.com/6c65726f79/Transmissionic/blob/main/public/assets/icon/favicon.png",
+            "screenshotURLs": [
+                "https://camo.githubusercontent.com/5e7bf8df0112e51ff90978b83097f62391edb43ab36d3f6ca0fb6fce3b9415ed/68747470733a2f2f692e696d6775722e636f6d2f5354747a7872592e706e67",
+                "https://camo.githubusercontent.com/5faf4cb58ebd7bf1e50b6df56c94ac5189d13528d8056636c537ba6dec508ad1/68747470733a2f2f692e696d6775722e636f6d2f3559394d4c34732e706e67"
+        ],
+            "versions": [
+                {
+                    "version": "1.8.0",
+                    "date": "2023-03-12",
+                    "localizedDescription": "Add Brazilian Portuguese locale a1b42b4\nAdd Korean locale de72789\nAdd Portuguese locale 7e346ae\nAdd Slovak locale 65cec48\nAdd file extension filter (#1163) db2e79f\nAdd port testing 05e41ab\nAdd showTrackerList option (#1203) b06cb20\nAllows to add multiple magnets (#1267) 6f30e4b\nAllows to add multiple urls (#1267) a2d2406\nAutomatically select filename in rename prompt (#1226) 92314c9\nDisable Ctrl+A shortcut when a modal is opened 4a9a68a\nFix copy/paste on macOS (#1251) 38162d8\nFix peer flags on Firefox (#1250) 2982e09\nFix typo d16248f (Thanks to @stanol)\nReduce Web UI bundle size 18104e0\nUse CapacitorHttp ea8ee7c e2aca9f\nUse Transmission RPC table mode (#1187) befd148",
+                    "downloadURL": "https://github.com/6c65726f79/Transmissionic/releases/download/v1.8.0/Transmissionic-ios-v1.8.0.ipa",
+                    "size": 1863522,
+                    "minOSVersion": "12.0",
+                    "maxOSVersion": "18.0"
+                }
+            ]
         }
     ],
     "appPermissions": {},
