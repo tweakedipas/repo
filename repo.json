@@ -179,7 +179,102 @@
                     "maxOSVersion": "18.0"
                 }
             ]
-        }
+        },
+        {
+            "name": " PAKO 3",
+            "bundleIdentifier": "com.treemengames.pako3",
+            "developerName": "Tree Men Games",
+            "subtitle": "SatellaJailed",
+            "localizedDescription": "Original car chase game is back! Pako 3 brings insane amount of levels and cars to unlock, while keeping the simple gameplay. Transport your crew as a getaway driver, escape cops in survival levels and drive fast laps on racing levels!\n\nFEATURES:\n+ 4 game modes: Getaway Driver, Racing, Survival, Capture area\n+ Easy and addictive gameplay\n+ 30+ levels and cars to unlock\n+ Pick up bonus items to help your journey!\n+ Unlock and paint cars\n+ Leaderboard competition\n+ Achievements\n+ iCloud saving\n\nMANUAL:\nPress and hold touch screen LEFT or RIGHT sides to steer the car. Hold BOTH buttons for extra slide / handbrake.\n\nGame modes:\nGETAWAY DRIVER: Find your crew and transport them to the goal point\nRACING: Finish the race as quickly as possible\nSURVIVAL: Escape as long as possible\nZONES: Capture area",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/5d/fe/835dfe9e-4590-7937-45fb-abafb2d6b721/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350bb.jpg",
+            "screenshotURLs": [
+
+
+  "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c5/26/8c/c5268cc4-64d4-82b8-90af-6848d20761e7/bfc3e2d7-75cf-43c4-96fc-63dafd1d34de_iPad_shadowHI.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a0/90/41/a090419a-f917-d308-0ca2-3496beb5dcee/d300af99-472a-4276-9227-c78ecf317d79_PAKO3_023.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/74/45/51744515-15c7-9da1-d028-97f5e7721138/4a233968-149a-4e29-a0cc-c359a29e997c_shot_2404.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/41/e9/93/41e99345-d0ec-9b87-55e7-6e762ecef081/61c39cf7-5af3-46b8-be64-200143b1c9b9_PAKO3_004.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/a5/48/5aa548fb-0f2b-d687-4f82-5970fc2c8824/14043f21-1451-42e2-bbdc-1561657b6b91_shot_1452.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/55/75/35/5575357c-208d-153a-48b2-0dcf2d0e2676/dc75950c-5889-49b1-a871-51bc761024a5_PAKO3_021.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/61/14/8161149f-bc56-60e7-d6c0-d0e2df13a3f6/81ff05ff-a18e-4837-b068-6a84499e7156_shot_3494.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/24/f5/b224f5dc-8854-c18c-1115-483da803e16d/fe182e93-fdcf-4685-955c-2537683b9b38_PAKO3_072.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6a/e4/db/6ae4db6f-35c2-47f5-bc23-144bcc87079b/bbb16912-f7c4-4712-81d2-a3497640884f_shot_1092.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/fd/90/51fd90a5-1475-49c7-c798-dbba18fe0d02/6d2e8b65-ebb0-4578-8e04-9eb724e42852_PAKO3_029.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0e/db/67/0edb673f-2218-b560-6769-1c41fa6d0c9a/e06c2764-a2e9-4b41-8362-1477d5f25f6e_65_ShadowHi.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e4/55/47/e45547b2-ed25-4718-8586-77c2009b0ea4/124c1f62-2c95-45ca-90fa-ca110d831dfa_PAKO3_032.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/89/02/b0890295-9a8c-8f25-56bf-e2c4514a9ca0/a0c01ce9-2ba2-4a70-938b-70f171632073_PAKO3_064.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f0/af/11/f0af1113-5d18-c944-b0da-bd36de12e828/f14bc9fa-799f-4925-8718-14d7448fbc8b_PAKO3_007.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/85/41/b58541a5-5853-c6fa-ce82-39be92332404/37977a4b-f462-4917-b21d-044bf2e3be5c_shot_6728.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/84/d0/6e84d03a-5555-96bd-16b0-c9fc2714db22/d4870d77-593b-4b26-ba81-2f85b03d2ffc_PAKO3_017.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0e/94/0e/0e940e53-c8a0-57aa-6839-78e1f00bc67b/c61768b2-61fd-418b-b2ee-f2145bd37a68_shot_1548.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/f1/09/caf10990-d0c2-b621-2f22-6c0d15c3a23f/9fffc183-bede-4424-98b3-07dcbc949e59_shot_2813.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/54/7f/6b547f24-0cec-fd5f-37ca-dfe75a6aef00/0c4c6bff-5f7e-4eee-a947-bc6c52e38dcc_PAKO3_045.png/643x0w.jpg",
+  "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/a4/2f/f4a42fff-bb2d-57fc-2f73-edbd3ac0bd58/fbda8a37-57a1-4f91-8f5b-867b68338797_PAKO3_082.png/643x0w.jpg"
+
+],
+            "versions": [
+                {
+                    "version": "1.0.6 ",
+                    "date": "2022-05-16",
+                    "localizedDescription": "+Bug fixes\n+Added tool for restoring missing highscores in Settings: Restore highscores",
+                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/2/pako3_tweakedipas.ipa",
+                    "size": 42752885,
+                    "minOSVersion": "11.0",
+                    "maxOSVersion": "18.0"
+                }
+            ]
+        },
+        {
+            "name": "Really Bad Chess",
+            "bundleIdentifier": "net.stfj.reallyBadChess",
+            "developerName": "Zach Gage",
+            "subtitle": "SatellaJailed",
+            "localizedDescription": "Really Bad Chess is just like chess, but with totally random pieces. Try 8 Knights, 4 Bishops, and 3 pawns — why not?\n\nAs heard on NPR's Weekend Edition\n\n5 out of 5 Stars \"An essential puzzle experience for anyone even remotely interested in strategy games\" - TouchArcade\n\nWhether you play chess daily, or quit just after learning the rules, this small twist will open the door to an entire new world of chess.\n\n------WHATS IN THE “BOX”?\nThe free version of Really Bad Chess lets you compete vs. an AI in Ranked, Daily, or Weekly Challenges. Improve your skills using the included Freeplay mode. A single in-app purchase unlocks Versus Mode so you can compete against your friends locally! It also removes ads, displays captured pieces, and adds soothing alternate color-palettes to choose from.\n\n------REALLY BAD PRESS\n\n\"Makes chess fun even if you’re really bad\" - The Verge\n\n\"Feels more modern than chess has ever felt\" - Applenapps\n\n\"Really Bad Chess takes a really bad idea and somehow manages to make it a lot of fun.\" - Pocket Gamer\n\n\"Really good fun\" - MacLife\n\n------A WORD FROM THE DEVELOPER\t\nChess is one of those games I always wished I enjoyed, but its commitment to beauty, elegance, and perfect balance always turned me away. Really Bad Chess removes these boring restrictions and flips chess on its head.\n\nAs much as random pieces change the game in some ways, I was really surprised to notice how much the game remains the same, and how powerful some pieces are — you've never truly struggled against a pawn until you've struggled against a pawn in the back row.\n\nFor chess pros, Really Bad Chess will give you a new type of challenge — the pieces &amp; the moves are the same, but you'll have to throw out your openings and your understanding of normal patterns of play. \n\nFor novice chess players (like most of us), Really Bad Chess greatly opens up the game. Instead of starting by studying openings, in your first games you'll get to discover the joy (and challenge!) of learning how to checkmate.\n\nI hope you have as much fun with Really Bad Chess as much as I did making it.\n\n-zach",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fc/d4/5a/fcd45a53-beb7-1a0d-4bbf-4b6002e5f32c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/350x350bb.jpg",
+            "screenshotURLs": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2f/cb/71/2fcb717e-deeb-1095-7ae6-60eedb2fb3f8/601f1f3a-7d6a-4f31-825e-c001e528321c_iphone_ssh.jpg/300x0w.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9a/8b/16/9a8b16b1-dabc-52ac-205e-cfd84c76ee64/df943b6a-9c10-4680-bd5f-f3c535184023_iphone_sftp.jpg/300x0w.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3b/dc/12/3bdc1235-591f-1e37-29d7-6afd11dcea66/6bd99137-a7ef-46d7-a0a9-6377e1717028_iphone_mashrepl.jpg/300x0w.jpg"
+        ],
+            "versions": [
+                {
+                    "version": "1.4.7",
+                    "date": "2023-03-03",
+                    "localizedDescription": "bug fixes",
+                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/2/ReallyBadChess_tweakedipas.ipa",
+                    "size": 44639112,
+                    "minOSVersion": "11.0",
+                    "maxOSVersion": "18.0"
+                }
+            ]
+        },
+        {
+            "name": "Tiny Scanner App - PDF Scanner",
+            "bundleIdentifier": "net.goldani.ScanMe",
+            "developerName": "Golden Mind Services LTD",
+            "subtitle": "SatellaJailed",
+            "localizedDescription": "Scan any document with the Tiny Scanner App in just a few seconds and export, share, or email it as either a PDF or JPG. All of the app's features are and will remain free forever!\n\nSome key features include:\n\n• Scanning multiple pages into a single document\n• Rearranging pages in a document before exporting\n• Exporting/sharing/emailing as either a single PDF file or multiple JPG files\n• Importing image files from your gallery or iCloud Drive\n• Importing PDF files from iCloud Drive\n• Copying or moving pages to a new or existing document\n• Extracting text from a page using our cutting-edge OCR feature\n• Recognizing document borders and giving you an option to adjust them if needed\n• Printing a document directly from your phone\n\nAdditionally, enjoy a PDF toolbox embedded in the app with the following features:\n\n• PDF Merge: Merge two or more PDF files into one\n• PDF Split: Split a PDF file into two or more files\n• PDF Extract: Extract selected pages from a PDF file and export to a new file\n• PDF Password: Encrypt a PDF file by adding a password\n• PDF to Long JPG: Convert a PDF file into one long JPG file\n• PDF to Poster: Convert a PDF file into a poster with your selected number of columns\n\n*This app would not have been possible without the work done by SwiftyTesseract, Steven Sherry, under the MIT license. See https://github.com/SwiftyTesseract/SwiftyTesseract for details.",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/7a/f0/a27af0cb-3709-3f88-6bf2-1f9caacb38b8/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/350x350bb.jpg",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6b/22/99/6b2299e4-314d-ad39-412f-455ba14715ed/ab3996ca-c5ec-4520-bef0-808673783903_scan1.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/23/df/27/23df2797-7295-8cff-b649-9029ec9921ee/a3e0c9e4-690b-4f62-b0d6-c27fcc4fb9c2_scan2.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6a/fd/95/6afd95a9-5c32-775d-2942-7e4dc356d8ac/35f29376-2d00-4569-8870-514aa1e3dd75_scan3.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/75/02/9f7502a7-3a82-3522-7b2d-423f8e60e3c2/909e83aa-c434-4c9d-a001-3894c08da582_scan4.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a3/46/61/a34661bc-8292-92e9-3023-b064d1a61039/054f1657-2353-490b-8abe-93207056a2ce_scan5.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b3/b9/46/b3b94661-c177-3837-2aeb-5b0598ae65d7/587a7c7c-a373-49c4-b7de-008960a25bc6_scan6.png/300x0w.jpg",
+        ],
+            "versions": [
+                {
+                    "version": "4.8",
+                    "date": "2023-12-15",
+                    "localizedDescription": "• Some Performance Improvements",
+                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/2/TinyScanner_tweakedipas.ipa",
+                    "size": 6039265,
+                    "minOSVersion": "13.0",
+                    "maxOSVersion": "18.0"
+                }
+            ]
+        },
     ],
     "appPermissions": {},
     "news": []
