@@ -2,9 +2,9 @@
     "name": "A Better Tweakedipas Repo",
     "subtitle": "tweaked ipas without working too hard to find them",
     "description": "test",
-    "iconURL": "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true",
-    "headerURL": "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true",
-    "website": "https://t.me/tamir46",
+    "iconURL": "https://github.com/tweakedipas/repo/blob/main/carb-640_640-logo.jpg?raw=true",
+    "headerURL": "https://github.com/tweakedipas/repo/blob/main/carb-640_640-logo.jpg?raw=true",
+    "website": "https://t.me/tweakedipa",
     "featuredApps": [
         "com.itimeteo.webssh",
         "fi.twomenandadog.zombiecatchers",
@@ -18,7 +18,7 @@
             "developerName": "Various Developers",
             "subtitle": "ish, linux in your pocket",
             "localizedDescription": "pls dont install this, its for testing only",
-            "iconURL": "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true",
+            "iconURL": "https://github.com/tweakedipas/repo/blob/main/carb-640_640-logo.jpg?raw=true",
             "screenshotURLs": [
                 "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true",
                 "https://github.com/tweakedipas/repo/blob/main/crab-42880_1920.png?raw=true"
@@ -51,12 +51,23 @@
             "subtitle": "SatellaJailed",
             "localizedDescription": "",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/e9/a4/5ce9a4dc-845a-ccc2-fa45-99cf016d04b4/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/350x350bb.jpg",
+            "screenshotURLs":[
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f7/22/1e/f7221e8e-0fe2-d4bc-8221-db93df9a84d5/pr_source.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9e/56/75/9e567537-2ca5-f6f8-1945-ac0504b7001a/pr_source.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4b/83/71/4b83715e-77b0-55df-2360-72c42b2b9a56/pr_source.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/4b/93/e64b93f3-48d7-2cec-216f-ac525671ae14/pr_source.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f4/2b/c9/f42bc949-97a7-322b-c509-533aa6b84e0f/pr_source.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/50/c4/b650c441-3eaf-c2c1-1332-43184b3c2963/pr_source.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/fc/c0/89fcc0bb-34ca-d15b-ec17-fdbc1a135e5e/pr_source.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/00/92/90/00929049-9a7e-6473-5d52-7c94ac3ea981/pr_source.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0d/8e/10/0d8e107e-12d8-70f7-52a1-b74a64e642a0/pr_source.png/643x0w.jpg"
+            ],
             "versions": [
                 {
                     "version": "4.1.8",
                     "date": "2024-07-01",
                     "localizedDescription": "tweakedipas free in-app purchases",
-                    "downloadURL": "https://download.starfiles.co/file/27023c24a25c",
+                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/1/Alliance._Air_War-tweakedipas.ipa",
                     "size": 259335298,
                     "minOSVersion": "11.0",
                     "maxOSVersion": "17.0"
@@ -70,13 +81,17 @@
             "subtitle": "SatellaJailed",
             "localizedDescription": "SysAdmin Tools",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/ae/18/c1ae181c-e87d-607f-0efb-fe02580e1139/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/350x350bb.jpg",
-            "tintColor": "#F54F32",
+            "screenshotURLs": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2f/cb/71/2fcb717e-deeb-1095-7ae6-60eedb2fb3f8/601f1f3a-7d6a-4f31-825e-c001e528321c_iphone_ssh.jpg/300x0w.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9a/8b/16/9a8b16b1-dabc-52ac-205e-cfd84c76ee64/df943b6a-9c10-4680-bd5f-f3c535184023_iphone_sftp.jpg/300x0w.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3b/dc/12/3bdc1235-591f-1e37-29d7-6afd11dcea66/6bd99137-a7ef-46d7-a0a9-6377e1717028_iphone_mashrepl.jpg/300x0w.jpg"
+        ],
             "versions": [
                 {
                     "version": "27.2",
                     "date": "2024-07-01",
                     "localizedDescription": "tweakedipas free in-app purchases",
-                    "downloadURL": "https://download.starfiles.co/6880f989027c",
+                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/1/WebSSH-Tweakedipas.ipa",
                     "size": 29897570,
                     "minOSVersion": "16.6",
                     "maxOSVersion": "18.0"
@@ -90,12 +105,21 @@
             "subtitle": "ADblock",
             "localizedDescription": "",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/1d/3c/041d3c50-ea48-a34a-9f77-2cf580930dc0/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/350x350bb.jpg",
+            "screenshotURLs":[
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/69/02/44/690244e9-76a5-4ee2-62d6-19668de34782/mzl.nwapxipc.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/e0/6a/2fe06ab9-0081-a468-977a-75b08e42b53f/mzl.tdudhxcz.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fc/8f/e5/fc8fe5e2-816a-a644-836a-da9969738a4b/mzl.tdlxxqwf.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/06/1f/f7/061ff7eb-dfe9-10bf-c1ff-39f80de5d348/mzl.nwqhfzbb.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/88/d2/95/88d295dd-7b0d-071c-54b1-1554d6ecf9b1/mzl.cmzzcdhl.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/15/c5/5a/15c55a11-bda8-afd5-df68-08fe1eb50ce3/mzl.xunueijg.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/cc/a0/ab/cca0aba0-efd2-a465-d39a-8888131ba1be/mzl.omgwxwxf.png/643x0w.jpg"
+            ],
             "versions": [
                 {
                     "version": "1.39.13",
                     "date": "2024-07-01",
                     "localizedDescription": "tweakedipas free in-app purchases",
-                    "downloadURL": "https://download.starfiles.co/file/858a0ac12a44",
+                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/1/ZombieCatchers-Tweakedipas.ipa",
                     "size": 86639494,
                     "minOSVersion": "12.0",
                     "maxOSVersion": "18.0"
@@ -108,7 +132,7 @@
             "developerName": "Lachlan Charlick",
             "subtitle": "SatellaJailed",
             "localizedDescription": "Prism is a versatile music player for Plex and Apple Music.\n\nFEATURES\n\n- Access music already on your device or in your iCloud Music Library*, or add a free Plex account to stream your music from anywhere in the world.\n\n- Refine your library by adding one or more filters\n\n- Various options for sorting and displaying your library\n\n- 7-band equalizer\n\n- CarPlay support\n\nPayment required to unlock additional features:\n\n- Download music from your Plex server to play later without an internet connection\n\n- Automatically switch between light and dark themes\n\n- Configure default sorting for libraries, artists and albums\n\n- Import playlists from iTunes and Plex libraries\n\n* The built-in iOS music app must be installed for local or iCloud Music Library support",
-            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/4e/6b/2a4e6b3a-b03e-d4d7-afff-fb1a487b4eab/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/4e/6b/2a4e6b3a-b03e-d4d7-afff-fb1a487b4eab/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/2a/a3/4a/2aa34a1b-a4bc-5bb7-6897-577143fb6e11/33703829-2de0-40f4-97ce-1ffbe28abb29_iPhone_11_Pro_Max-screenshot_01_player.png/300x0w.jpg",
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/3f/d5/66/3fd5668d-1713-a4ff-17e0-5d76cca52847/b7272635-a386-4c0d-bb43-f9ad0df6201d_iPhone_11_Pro_Max-screenshot_02_libraries.png/300x0w.jpg",
@@ -124,7 +148,7 @@
                     "date": "2024-07-01",
                     "localizedDescription": "Crash fixes \n In 2.6.4: Improved support for media keys on macOS, fixed layout issues with 'Show button shapes' and large font sizes, and corrected download manager button count. \n In 2.6.3: Improved library refresh behavior, fixed cached images loading without internet, download manager errors, and crash fixes. \n In 2.6.2: Fixed crash on iOS beta launch. \n In 2.6.1: Improved playback error messages, settings tab layout, and fixed crash on macOS 11. Restored CarPlay 'Artists' tab and added shuffle option. \n In 2.6.0: Introduced new CarPlay app, app now requires iOS 14.5+."
 ,
-                    "downloadURL": "https://download.starfiles.co/file/7ac85245f01a",
+                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/1/Prism-Tweakedipas.ipa",
                     "size": 8954912,
                     "minOSVersion": "14.5",
                     "maxOSVersion": "18.0"
