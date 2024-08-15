@@ -8,7 +8,8 @@
     "featuredApps": [
         "com.itimeteo.webssh",
         "fi.twomenandadog.zombiecatchers",
-        "com.alliancethegame.alliance.airwar"
+        "com.alliancethegame.alliance.airwar",
+        "me.charlick.prism"
     ],
     "apps": [
         {
@@ -106,13 +107,14 @@
             "bundleIdentifier": "me.charlick.prism",
             "developerName": "Lachlan Charlick",
             "subtitle": "SatellaJailed",
-            "localizedDescription": "",
+            "localizedDescription": "Prism is a versatile music player for Plex and Apple Music.\n\nFEATURES\n\n- Access music already on your device or in your iCloud Music Library*, or add a free Plex account to stream your music from anywhere in the world.\n\n- Refine your library by adding one or more filters\n\n- Various options for sorting and displaying your library\n\n- 7-band equalizer\n\n- CarPlay support\n\nPayment required to unlock additional features:\n\n- Download music from your Plex server to play later without an internet connection\n\n- Automatically switch between light and dark themes\n\n- Configure default sorting for libraries, artists and albums\n\n- Import playlists from iTunes and Plex libraries\n\n* The built-in iOS music app must be installed for local or iCloud Music Library support",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/4e/6b/2a4e6b3a-b03e-d4d7-afff-fb1a487b4eab/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
             "versions": [
                 {
                     "version": "2.6.5 ",
                     "date": "2024-07-01",
-                    "localizedDescription": "tweakedipas free in-app purchases",
+                    "localizedDescription": "Crash fixes \n In 2.6.4: Improved support for media keys on macOS, fixed layout issues with 'Show button shapes' and large font sizes, and corrected download manager button count. \n In 2.6.3: Improved library refresh behavior, fixed cached images loading without internet, download manager errors, and crash fixes. \n In 2.6.2: Fixed crash on iOS beta launch. \n In 2.6.1: Improved playback error messages, settings tab layout, and fixed crash on macOS 11. Restored CarPlay 'Artists' tab and added shuffle option. \n In 2.6.0: Introduced new CarPlay app, app now requires iOS 14.5+."
+,
                     "downloadURL": "https://download.starfiles.co/file/7ac85245f01a",
                     "size": 8954912,
                     "minOSVersion": "14.5",
