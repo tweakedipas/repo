@@ -368,7 +368,45 @@
                     "maxOSVersion": "18.0"
                 }
             ]
-        }
+        },
+        {
+            "name": "Tiny Player",
+            "bundleIdentifier": "com.catnapgames.player",
+            "developerName": "catnapgames",
+            "subtitle": "archive of Tiny Player (minimalist audio player without the need of iTunes)",
+            "localizedDescription": "Q: “How do I put music on my iPhone?”\nA: “Use Tiny Player.”\n\nTiny Player is a music player for iPhone and iPad.\n\n• Load music without iTunes\n• Folder based structure\n• Fast and simple\n\nHow do I put music on my iPhone?\n\n• Open Tiny Player and enable uploads\n• Open a browser on your computer and go to the URL that the app gives you\n• Drag &amp; drop files onto the page\n• Enjoy your music!",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/72/61/4b72613e-0460-2bf0-242f-054ac73e4d63/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/350x350bb.jpg",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/cd/c2/4acdc2de-243a-a6a1-a5b9-061659112864/9ae12f19-64ba-4442-9375-9988a9707b4a_iPhone_15_Pro_Max-01-Player.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/38/ab/e738abfd-7a7e-4125-5e52-a9bd79561030/62bcc58d-c72a-4f16-af87-bf12cd01bebf_iPhone_15_Pro_Max-02-Equalizer.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/14/d4/5e14d47b-02eb-0e0f-d1b5-261ba9a653de/87eac73a-432e-4c8f-9911-00101c332934_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029-01-Player.png/643x0w.jpg"
+        ],
+            "versions": [
+                {
+                    "version": "2.1.0-2",
+                    "date": "2024-06.15",
+                    "localizedDescription": "You don't need to type the IP address in your browser anymore. Just bookmark the new website, it will find your device automatically.",
+                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/3/TinyPlayer-v2.1.0-decrypted.ipa",
+                    "size": 1306933,
+                    "minOSVersion": "15.0",
+                    "maxOSVersion": "18.0"
+                },
+                {
+                    "version": "1.5.2",
+                    "date": "2022-01.10",
+                    "localizedDescription": "• Fix dark mode glitch\n• Always show IPv4 address for uploading.",
+                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/3/Tiny.Player_1.5.2-decrypted.ipa",
+                    "size": 1859683
+                },
+                {
+                    "version": "1.2",
+                    "date": "2024-06.15",
+                    "localizedDescription": "• Support for headset remote buttons\n• A few minor improvements to the interface.",
+                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/3/Tiny.Player_1.2-decrypted.ipa",
+                    "size": 1306933
+                }
+            ]
+        
     ],
     "appPermissions": {},
     "news": []
