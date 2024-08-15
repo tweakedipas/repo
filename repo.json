@@ -108,15 +108,15 @@
             "developerName": "Lachlan Charlick",
             "subtitle": "SatellaJailed",
             "localizedDescription": "Prism is a versatile music player for Plex and Apple Music.\n\nFEATURES\n\n- Access music already on your device or in your iCloud Music Library*, or add a free Plex account to stream your music from anywhere in the world.\n\n- Refine your library by adding one or more filters\n\n- Various options for sorting and displaying your library\n\n- 7-band equalizer\n\n- CarPlay support\n\nPayment required to unlock additional features:\n\n- Download music from your Plex server to play later without an internet connection\n\n- Automatically switch between light and dark themes\n\n- Configure default sorting for libraries, artists and albums\n\n- Import playlists from iTunes and Plex libraries\n\n* The built-in iOS music app must be installed for local or iCloud Music Library support",
-            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/4e/6b/2a4e6b3a-b03e-d4d7-afff-fb1a487b4eab/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/4e/6b/2a4e6b3a-b03e-d4d7-afff-fb1a487b4eab/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
             "screenshotURLs": [
-                    "https://ibb.co/bmGXJ19",
-                    "https://imgur.com/ER6MRGc",
-                    "https://imgur.com/HHUGeUp",
-                    "https://imgur.com/FICQS33",
-                     "https://imgur.com/oglPYID",
-                     "https://imgur.com/plfXZMh",
-                     "https://imgur.com/J9Vg5cW"
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/2a/a3/4a/2aa34a1b-a4bc-5bb7-6897-577143fb6e11/33703829-2de0-40f4-97ce-1ffbe28abb29_iPhone_11_Pro_Max-screenshot_01_player.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/3f/d5/66/3fd5668d-1713-a4ff-17e0-5d76cca52847/b7272635-a386-4c0d-bb43-f9ad0df6201d_iPhone_11_Pro_Max-screenshot_02_libraries.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/5e/d1/91/5ed191bd-08b1-0353-d2a9-adeb512366ad/c4d2b86d-9b62-4f3c-b753-1bab7c362ce7_iPhone_11_Pro_Max-screenshot_03_filters.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/49/ce/28/49ce28f3-4c20-162b-c6ec-d1181dd9813e/ae623cb0-e4a1-4ffc-b077-42beb21b5659_iPhone_11_Pro_Max-screenshot_04_arrange.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a5/9a/79/a59a79a3-30f5-5630-41b8-8b7fd764add9/d2e068c9-c5e7-4c72-a101-0b4e1177b099_iPhone_11_Pro_Max-screenshot_05_list.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/f3/12/fd/f312fd50-52a0-d38c-a196-70dd5cef5e09/671e94c7-0e18-4421-8d6f-304993913cdf_iPhone_11_Pro_Max-screenshot_06_equalizer.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/47/9e/43/479e43f1-a567-6a47-0bfe-aa898e02eee2/8b5402b0-3b33-4cc9-913a-6f72f1fcd1ba_iPhone_11_Pro_Max-screenshot_07_theme.png/300x0w.jpg"
             ],
             "versions": [
                 {
