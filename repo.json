@@ -281,6 +281,30 @@
                     "maxOSVersion": "18.0"
                 }
             ]
+        },
+        {
+            "name": "ModMyIPA",
+            "bundleIdentifier": "com.powen.ModMyIPA",
+            "developerName": "powenn",
+            "subtitle": "credit to https://github.com/powenn",
+            "localizedDescription": "An app that modifies IPA files allows you to install the same app multiple times.",
+            "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/ModMyIPA-app.png",
+            "screenshotURLs": [
+                "https://github.com/powenn/ModMyIPA/raw/main/Screenshots/01.png",
+                "https://github.com/powenn/ModMyIPA/raw/main/Screenshots/02.png",
+                "https://github.com/powenn/ModMyIPA/raw/main/Screenshots/03.png"
+        ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2022-10-26",
+                    "localizedDescription": "Rename SetAppInfo to EditAppInfo",
+                    "downloadURL": "https://github.com/powenn/ModMyIPA/releases/download/1.0.2/ModMyIPA-1.0.2.ipa",
+                    "size": 2447058,
+                    "minOSVersion": "15.0",
+                    "maxOSVersion": "17.0"
+                }
+            ]
         }
     ],
     "appPermissions": {},
