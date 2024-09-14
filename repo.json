@@ -568,7 +568,7 @@
             "name": "Getting Over It+",
             "bundleIdentifier": "net.foddy.gettingoveritplus",
             "developerName": "Bennett Foddy",
-            "subtitle": null,
+            "subtitle": "Good Luck",
             "localizedDescription": "A game I made  For a certain kind of person\\n\\nTo hurt them.",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/29/af/61/29af61df-0bfe-7848-d579-c10db06d1587/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
@@ -597,7 +597,7 @@
             "name": "Spotify - Music and Podcasts",
             "bundleIdentifier": "com.spotify.client",
             "developerName": "Spotify",
-            "subtitle": null,
+            "subtitle": "EeveeSpotify/ spotilife 1.8",
             "localizedDescription": "Discover the latest songs",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/29/f2/9729f2fa-046a-0db7-5d7d-fc42ea9c4972/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
@@ -651,7 +651,7 @@
             "bundleIdentifier": "com.rac7.SneakySasquatch",
             "developerName": "RAC7 Games",
             "subtitle": "Stealthy shenanigans",
-            "localizedDescription": null,
+            "localizedDescription": "** Apple Arcade Game of the Year Winner! **",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/ab/c6/1cabc6aa-0248-0de4-66c0-2b56e0a167df/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/350x350bb.jpg",
             "screenshotURLs": [
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/50/e0/6b50e096-d911-20bd-bc3f-491ab10550ba/f1c9104e-ea4c-4044-83a2-cc79bf2e27aa_0_APP_IPHONE_65_0.png/643x0w.jpg",
@@ -698,7 +698,7 @@
             "name": "My Bowling 3D+",
             "bundleIdentifier": "asg.iwaredesigns.bowling3d",
             "developerName": "iWare Designs Ltd.",
-            "subtitle": null,
+            "subtitle": "",
             "localizedDescription": "iWare Designs brings you My Bowling 3D+, probably the most realistic and playable Ten Pin Bowling game available on mobile devices. Boasting fully textured game environments and full 3D rigid body physics, this game is the complete package for both casual and serious gamers.",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/a1/78/44a178f6-721f-0ec1-310b-abea4b867e2e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
