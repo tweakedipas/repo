@@ -501,7 +501,7 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Google",
             "subtitle": "YTLitePlus",
-            "localizedDescription": null,
+            "localizedDescription": "Videos, Music and Live Streams",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/1c/75/8b1c7513-9bdd-9b4a-15ae-72879d721bc9/logo_youtube_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/350x350bb.jpg",
             "screenshotURLs": [
                 "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/14/f8/c014f89b-973d-2486-192a-dc9b4d12f370/7a94f703-7c3e-4789-9bd7-ce80045fe7b6_iOS-6.5-in_1.jpg/300x0w.jpg\"",
@@ -534,8 +534,8 @@
             "name": "folium",
             "bundleIdentifier": "com.antique.Folium-iOS",
             "developerName": "Jarrod Norwell",
-            "localizedDescription": null,
-            "subtitle": "Beautifully designed, high performing multi-system emulation in the palm of your hands",
+            "localizedDescription": "Beautifully designed, high performing multi-system emulation in the palm of your hands"
+            "subtitle": "multi-system emulation",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/94/21/e1942144-1cbc-4c87-e49e-bba05666e4bf/AppIcon-0-0-1x_U007epad-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/59/4d/13594d7c-0d0e-e94e-71d7-2803a02254c4/615f8535-99e0-4bed-86b6-eba6e25a7a72_0x0ss.png/643x0w.jpg\"",
