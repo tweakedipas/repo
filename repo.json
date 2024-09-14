@@ -180,7 +180,7 @@
             ]
         },
         {
-            "name": "PAKO 3",
+            "name": " PAKO 3",
             "bundleIdentifier": "com.treemengames.pako3",
             "developerName": "Tree Men Games",
             "subtitle": "SatellaJailed",
@@ -480,7 +480,7 @@
                     "version": "9.54",
                     "date": "2024-02-10",
                     "localizedDescription": null,
-                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/4/twitter_9.54-BHTwitter.ipa",
+                    "downloadURL": null,
                     "size": 94729023,
                     "minOSVersion": "15",
                     "maxOSVersion": "18"
@@ -489,7 +489,7 @@
                     "version": "9.68",
                     "date": "2024-02-10",
                     "localizedDescription": null,
-                    "downloadURL": "https://github.com/tweakedipas/repo/releases/download/4/x_9.68-BHTwitter.ipa",
+                    "downloadURL": null,
                     "size": 96632577,
                     "minOSVersion": "15",
                     "maxOSVersion": "18"
@@ -504,8 +504,19 @@
             "localizedDescription": ",",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/1c/75/8b1c7513-9bdd-9b4a-15ae-72879d721bc9/logo_youtube_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/350x350bb.jpg",
             "screenshotURLs": [
-                "",
-                ""
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/14/f8/c014f89b-973d-2486-192a-dc9b4d12f370/7a94f703-7c3e-4789-9bd7-ce80045fe7b6_iOS-6.5-in_1.jpg/300x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/aa/ab/d9/aaabd92f-65f7-5a99-8fac-af004efd044a/9bde600a-9d57-41c4-830b-3261fee4a323_iOS-6.5-in_2.jpg/300x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bf/15/2f/bf152f19-34f8-7760-30cc-84c2547b4c75/634cb861-844f-4310-9dca-1d395031a99e_iOS-6.5-in_3.jpg/300x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/81/e0/eb81e09e-7da6-5160-caa8-d3b47cd1ff46/8d366307-dd64-45f4-8cf3-d45be7dec00d_iOS-6.5-in_4.jpg/300x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6d/b5/b3/6db5b38d-065a-7823-734e-a3a1b2ecf3f1/84bdc830-e257-413c-b355-024445f557e5_iOS-6.5-in_5.jpg/300x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/a2/bc/69a2bc52-a262-293a-ba79-e3ed47fc3e3e/mzl.opqovebo.png/643x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/fe/49/3cfe49bf-15c6-d790-4303-8105ff7c2e93/mzl.psvhzylv.png/643x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/53/0a/4f530a9c-eaca-678b-1260-04f17ec350ac/mzl.vtudmpjc.png/643x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/70/13/09/7013091a-5712-1a15-6481-738cc6bddd51/mzl.gjolrysm.png/643x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/42/4f/fe424f4c-887d-909e-ad0f-6557a4cb19df/mzl.xhdibzkx.png/643x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/55/d7/8c/55d78c33-4016-8335-cdc8-3ec305540a78/91f70ef3-e074-4aad-b659-7f5a643d1e6a_YouTube_Home_April2021.png/643x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/54/fb/9e/54fb9e17-d315-9f37-430a-b8ab7035a5c9/ca49df19-09c0-4ed2-bfc1-91a63801fd54_YouTube_Music_April2021.png/643x0w.jpg\"",
+                "\"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/c5/19/63/c519632d-9140-3273-4654-4f19e048f725/121cea11-5559-4190-8058-59a6f648b557_YouTube_Watch_April2021.png/643x0w.jpg"
             ],
             "versions": [
                 {
