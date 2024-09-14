@@ -108,7 +108,7 @@
                 {
                     "version": "27.2",
                     "date": "2024-07-01",
-                    "localizedDescription": u0669(^\u203f^)\u06f6 WebSSH has been updated\nIts codename is: 27.2 - Stars (Electra)\nSo what's new in this release? \u2193\n\u25d6 Release Adds \u25d7\n\u0e4f SFTP Text Editor: Save with Cmd+S: #1163\n\u25d6 Release Fixes \u25d7\n\u0e4f Reconnect w 2FA Not Working: #1160\n\u0e4f Getting asked for a passphrase for a private key, but there is none: #1153\n\u0e4f After some time..., keyboard not working: #812\n\u0e4f WebSSH losing focus on MacOS, keyboard isn't responding anymore: #1025\n\u0e4f Stuck in terminal when after coming back from another application or desktop: #1088\n\u0e4f Performance Lag with Long Snippets in WebSSH: #1144\nHave a nice day!",
+                    "localizedDescription": "/u0669(^\u203f^)\u06f6 WebSSH has been updated\nIts codename is: 27.2 - Stars (Electra)\nSo what's new in this release? \u2193\n\u25d6 Release Adds \u25d7\n\u0e4f SFTP Text Editor: Save with Cmd+S: #1163\n\u25d6 Release Fixes \u25d7\n\u0e4f Reconnect w 2FA Not Working: #1160\n\u0e4f Getting asked for a passphrase for a private key, but there is none: #1153\n\u0e4f After some time..., keyboard not working: #812\n\u0e4f WebSSH losing focus on MacOS, keyboard isn't responding anymore: #1025\n\u0e4f Stuck in terminal when after coming back from another application or desktop: #1088\n\u0e4f Performance Lag with Long Snippets in WebSSH: #1144\nHave a nice day!",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/1/WebSSH-Tweakedipas.ipa",
                     "size": 29897570,
                     "minOSVersion": "16.6",
@@ -270,7 +270,7 @@
                 {
                     "version": "4.8",
                     "date": "2023-12-15",
-                    "localizedDescription": u2022 Some Performance Improvements",
+                    "localizedDescription": "/u2022 Some Performance Improvements",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/2/TinyScanner_tweakedipas.ipa",
                     "size": 6039265,
                     "minOSVersion": "13.0",
@@ -390,14 +390,14 @@
                 {
                     "version": "1.5.2",
                     "date": "2022-01.10",
-                    "localizedDescription": u2022 Fix dark mode glitch\n\u2022 Always show IPv4 address for uploading.",
+                    "localizedDescription": "/u2022 Fix dark mode glitch\n\u2022 Always show IPv4 address for uploading.",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/3/Tiny.Player_1.5.2-decrypted.ipa",
                     "size": 1859683
                 },
                 {
                     "version": "1.2",
                     "date": "2024-06.15",
-                    "localizedDescription": u2022 Support for headset remote buttons\n\u2022 A few minor improvements to the interface.",
+                    "localizedDescription": "/u2022 Support for headset remote buttons\n\u2022 A few minor improvements to the interface.",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/3/Tiny.Player_1.2-decrypted.ipa",
                     "size": 1306933
                 }
@@ -509,7 +509,7 @@
                 "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bf/15/2f/bf152f19-34f8-7760-30cc-84c2547b4c75/634cb861-844f-4310-9dca-1d395031a99e_iOS-6.5-in_3.jpg/300x0w.jpg",
                 "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/81/e0/eb81e09e-7da6-5160-caa8-d3b47cd1ff46/8d366307-dd64-45f4-8cf3-d45be7dec00d_iOS-6.5-in_4.jpg/300x0w.jpg",
                 "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6d/b5/b3/6db5b38d-065a-7823-734e-a3a1b2ecf3f1/84bdc830-e257-413c-b355-024445f557e5_iOS-6.5-in_5.jpg/300x0w.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/a2/bc/69a2bc52-a262-293a-ba79-e3ed47fc3e3e/mzl.opqovebo.png/643x0w.jpg"",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/a2/bc/69a2bc52-a262-293a-ba79-e3ed47fc3e3e/mzl.opqovebo.png/643x0w.jpg",
                 "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/fe/49/3cfe49bf-15c6-d790-4303-8105ff7c2e93/mzl.psvhzylv.png/643x0w.jpg",
                 "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/53/0a/4f530a9c-eaca-678b-1260-04f17ec350ac/mzl.vtudmpjc.png/643x0w.jpg",
                 "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/70/13/09/7013091a-5712-1a15-6481-738cc6bddd51/mzl.gjolrysm.png/643x0w.jpg",
