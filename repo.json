@@ -476,7 +476,16 @@
             "localizedDescription": "Download Videos (even if account private).\\nCustom Tab Bar\\nNo history feature.\\nHide topics tweet feature.\\nDisable video layer caption.\\nPadlock.\\nFont changer.\\nEnable the new UI of DM search.\\nAuto load photos in highest quality feature.\\nUndo tweet feature.\\nTheme (like Twitter Blue).\\nApp icon changer\\nTwitter Circle feature.\\nCopying profile information feature.\\nSave tweet as an image.\\nHide spaces bar.\\nDisable RTL.\\nAlways open in Safari.\\nTranslate bio.\\nDisable new tweet style (A.K.A edge to edge tweet)\\nEnable voice tweet and voice message in DM.\\nHide promoted tweet from the timeline.\\nConfirm alert when hit the tweet button.\\nConfirm alert when hit like button.\\nConfirm alert when hit follow button.\\nFLEX for debugging.",
             "iconURL": "https://9to5mac.com/wp-content/uploads/sites/6/2023/07/IMG_1867-1.jpg",
             "screenshotURLs": [
-                ""
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/c0/05/b9c0054a-0703-41cd-4e8e-0ee5eae51617/89eae6ec-850a-46e4-a590-bb462e354b1b_iPad_12.9_-_2.png/643x0w.jpg","https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/ec/13/31ec13e8-5d1c-0e8b-d3cb-1a04e4c94178/c60cd26e-fd51-4459-8941-f5ac72fc19a0_iPad_12.9_-_3.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/2f/be/472fbe16-6b56-3c46-6af5-c6f49f7ce3a5/abdab1ff-1d0a-4c36-96a5-b574c62f2d85_iPad_12.9_-_1.png/643x0w.jpg","https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/9a/1e/c69a1e36-7f54-1343-b897-a30168b89d2d/1ac3a819-4ea5-46a3-b878-14fd3598fc6c_iPhone_6.5_-_4.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/ad/14/50ad14d2-2fa8-7f37-79a3-6adf001d6908/21bccaa7-2250-4b87-974e-a9193998650a_iPhone_6.5_-_1.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/07/94/310794f3-b051-92e0-628b-06a14882b1a0/4d6982ef-6690-4c44-b7ad-bae8f2af0808_iPhone_6.5_-_2.png/300x0w.jpg","https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/26/70/082670d6-2641-d112-843c-c6ebb6a38dd5/6ca67f70-9913-44ff-b14a-3703ecafaee9_iPhone_6.5_-_3.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/78/56/7678562c-4ad1-0850-b782-fd728b28a118/f5183071-46c6-4e73-8aab-efc7f207ad5a_iPhone_6.5_-_5.png/300x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/70/ab/af/70abaf43-14b3-9055-b2f0-34265f3d14cb/pr_source.jpg/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/02/5f/30/025f3075-9723-9d6f-ac80-2d60b0f66549/pr_source.jpg/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/4d/04/75/4d0475b0-f98e-845a-6ade-d94631d7298c/pr_source.jpg/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/88/ae/99/88ae992d-2120-d60b-ef91-c4b63d981867/pr_source.jpg/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/0c/c5/5e/0cc55efc-1740-d323-d569-2487df841fbd/mzl.rnggvkno.jpg/643x0w.jpg"
             ],
             "versions": [
                 {
@@ -580,7 +589,7 @@
             "name": "Getting Over It+",
             "bundleIdentifier": "net.foddy.gettingoveritplus",
             "developerName": "Bennett Foddy",
-            "subtitle": "",
+            "subtitle": "apple arcade game",
             "localizedDescription": "A game I made  For a certain kind of person\\n\\nTo hurt them.",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/29/af/61/29af61df-0bfe-7848-d579-c10db06d1587/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
@@ -609,7 +618,7 @@
             "name": "Spotify - Music and Podcasts",
             "bundleIdentifier": "com.spotify.client",
             "developerName": "Spotify",
-            "subtitle": "",
+            "subtitle": "Discover the latest songs ",
             "localizedDescription": "",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/29/f2/9729f2fa-046a-0db7-5d7d-fc42ea9c4972/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
@@ -810,7 +819,7 @@
             "name": "Stardew Valley+",
             "bundleIdentifier": "com.concernedape.stardewvalleyarcade",
             "developerName": "Kateryna Momotova",
-            "subtitle": "",
+            "subtitle": "apple arcade game",
             "localizedDescription": "apple arcade game",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/cf/7d/5ccf7d72-5d57-2cda-d1f2-7df2f3a80aab/AppIcons-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
@@ -852,7 +861,7 @@
             "bundleIdentifier": "net.stfj.reallyBadChess.arcade",
             "developerName": "Zach Gage",
             "subtitle": "apple arcade game",
-            "localizedDescription": "",
+            "localizedDescription": "apple arcade game",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/40/5c/a7405c90-2e1a-4b30-d555-d85de424b19e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/8f/a5/9b/8fa59b4b-2911-90b8-a0f5-ff4044778e11/70925e4d-6168-4232-8eb4-b72809430493_iPhoneX-SC1.png/300x0w.jpg",
