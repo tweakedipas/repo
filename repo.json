@@ -451,7 +451,7 @@
                 {
                     "version": "42.2",
                     "date": "2024-04-18",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://archive.org/download/apple-arcade-ios-app-archive-2024-04/Bloons%20TD%206+/com.ninjakiwi.bloonstd6plus-7877.ipa",
                     "size": 655600000,
                     "minOSVersion": "13",
@@ -460,7 +460,7 @@
                 {
                     "version": "42.1",
                     "date": "2024-04-12",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://archive.org/download/apple-arcade-ios-app-archive-2024-04/Bloons%20TD%206+/com.ninjakiwi.bloonstd6plus-7864.ipa",
                     "size": 655600000,
                     "minOSVersion": "13",
@@ -476,13 +476,13 @@
             "localizedDescription": "Download Videos (even if account private).\\nCustom Tab Bar\\nNo history feature.\\nHide topics tweet feature.\\nDisable video layer caption.\\nPadlock.\\nFont changer.\\nEnable the new UI of DM search.\\nAuto load photos in highest quality feature.\\nUndo tweet feature.\\nTheme (like Twitter Blue).\\nApp icon changer\\nTwitter Circle feature.\\nCopying profile information feature.\\nSave tweet as an image.\\nHide spaces bar.\\nDisable RTL.\\nAlways open in Safari.\\nTranslate bio.\\nDisable new tweet style (A.K.A edge to edge tweet)\\nEnable voice tweet and voice message in DM.\\nHide promoted tweet from the timeline.\\nConfirm alert when hit the tweet button.\\nConfirm alert when hit like button.\\nConfirm alert when hit follow button.\\nFLEX for debugging.",
             "iconURL": "https://9to5mac.com/wp-content/uploads/sites/6/2023/07/IMG_1867-1.jpg",
             "screenshotURLs": [
-                "null"
+                ""
             ],
             "versions": [
                 {
                     "version": "9.54",
                     "date": "2024-02-10",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/4/twitter_9.54-BHTwitter.ipa",
                     "size": 94729023,
                     "minOSVersion": "15",
@@ -491,7 +491,7 @@
                 {
                     "version": "9.68",
                     "date": "2024-02-10",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/4/x_9.68-BHTwitter.ipa",
                     "size": 96632577,
                     "minOSVersion": "15",
@@ -500,7 +500,7 @@
                 {
                     "version": "10.59.1",
                     "date": "2024-09-17",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/6/X-v10.59.1-BHtwitter.ipa",
                     "size": 142652568,
                     "minOSVersion": "15.0",
@@ -534,7 +534,7 @@
                 {
                     "version": "v19.34.2-5.0.1",
                     "date": "2024-09-03",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/5/YoutubeLitePlus.ipa",
                     "size": 103674391,
                     "minOSVersion": "15.0",
@@ -546,6 +546,7 @@
             "name": "folium",
             "bundleIdentifier": "com.antique.Folium-iOS",
             "developerName": "Jarrod Norwell",
+            "localizedDescription": "",
             "subtitle": "Beautifully designed, high performing multi-system emulation in the palm of your hands",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/94/21/e1942144-1cbc-4c87-e49e-bba05666e4bf/AppIcon-0-0-1x_U007epad-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
@@ -567,7 +568,7 @@
                 {
                     "version": "1.7",
                     "date": "2024-09-07",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/5/folium-ipad-iphone-v1.7.ipa",
                     "size": 19421123,
                     "minOSVersion": "16.0",
@@ -579,7 +580,7 @@
             "name": "Getting Over It+",
             "bundleIdentifier": "net.foddy.gettingoveritplus",
             "developerName": "Bennett Foddy",
-            "subtitle": null,
+            "subtitle": "",
             "localizedDescription": "A game I made  For a certain kind of person\\n\\nTo hurt them.",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/29/af/61/29af61df-0bfe-7848-d579-c10db06d1587/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
@@ -596,7 +597,7 @@
                 {
                     "version": "1.93",
                     "date": "2023-05-10",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/5/Getting.Over.It+_1.93_decrypted.ipa",
                     "size": 141469985,
                     "minOSVersion": "13.0",
@@ -608,8 +609,8 @@
             "name": "Spotify - Music and Podcasts",
             "bundleIdentifier": "com.spotify.client",
             "developerName": "Spotify",
-            "subtitle": null,
-            "localizedDescription": null,
+            "subtitle": "",
+            "localizedDescription": "",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/29/f2/9729f2fa-046a-0db7-5d7d-fc42ea9c4972/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/83/de/0883de6b-4615-4a41-0013-eaac0b258345/0265ec5e-b9ac-4c2f-9d95-2de3f284b0ec_IOS_-_6.7_-_S01_-_EN-US.png/300x0w.jpg",
@@ -640,7 +641,7 @@
                 {
                     "version": "8.6.42",
                     "date": "2023-01-10",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/5/SpotilifeC.v1.2.3_v8.6.42.ipa",
                     "size": 49104780,
                     "minOSVersion": "15.0",
@@ -662,7 +663,7 @@
             "bundleIdentifier": "com.rac7.SneakySasquatch",
             "developerName": "RAC7 Games",
             "subtitle": "Stealthy shenanigans",
-            "localizedDescription": null,
+            "localizedDescription": "",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/ab/c6/1cabc6aa-0248-0de4-66c0-2b56e0a167df/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/350x350bb.jpg",
             "screenshotURLs": [
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/50/e0/6b50e096-d911-20bd-bc3f-491ab10550ba/f1c9104e-ea4c-4044-83a2-cc79bf2e27aa_0_APP_IPHONE_65_0.png/643x0w.jpg",
@@ -697,7 +698,7 @@
                 {
                     "version": "2.0.3",
                     "date": "2024-08-26",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/5/Sasquatch_2.0.3_decrypted.ipa",
                     "size": 309012253,
                     "minOSVersion": "13.0",
@@ -709,7 +710,7 @@
             "name": "My Bowling 3D+",
             "bundleIdentifier": "asg.iwaredesigns.bowling3d",
             "developerName": "iWare Designs Ltd.",
-            "subtitle": null,
+            "subtitle": "",
             "localizedDescription": "iWare Designs brings you My Bowling 3D+, probably the most realistic and playable Ten Pin Bowling game available on mobile devices. Boasting fully textured game environments and full 3D rigid body physics, this game is the complete package for both casual and serious gamers.",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/a1/78/44a178f6-721f-0ec1-310b-abea4b867e2e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
@@ -743,7 +744,7 @@
                 {
                     "version": "1.38",
                     "date": "2024-08-15",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/5/My.Bowling.3D_1.38_decrypted.ipa",
                     "size": 101246169,
                     "minOSVersion": "13.0",
@@ -770,7 +771,7 @@
                 {
                     "version": "290.1",
                     "date": "2023-07-12",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/BandarHL/BHInstagram/releases/download/0.0.1/Instagram_290.1_BHInstagram_0.0.1.ipa",
                     "size": 129199510,
                     "minOSVersion": "15.1",
@@ -779,7 +780,7 @@
                 {
                     "version": "315.0.2",
                     "date": "1969-12-31",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/6/Instagram-v315.0.2-BHInstagram.ipa",
                     "size": 134088666,
                     "minOSVersion": "15.1",
@@ -788,7 +789,7 @@
                 {
                     "version": "344.0",
                     "date": "2024-08-12",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/6/Instagram-v344.0.0-BHInstagram.ipa",
                     "size": 156520785,
                     "minOSVersion": "15.1",
@@ -797,7 +798,7 @@
                 {
                     "version": "349.1.0",
                     "date": "2024-09-18",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/6/Instagram-v349.1.0-BHinstagram.ipa",
                     "size": 185330376,
                     "minOSVersion": "15.1",
@@ -809,7 +810,7 @@
             "name": "Stardew Valley+",
             "bundleIdentifier": "com.concernedape.stardewvalleyarcade",
             "developerName": "Kateryna Momotova",
-            "subtitle": null,
+            "subtitle": "",
             "localizedDescription": "apple arcade game",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/cf/7d/5ccf7d72-5d57-2cda-d1f2-7df2f3a80aab/AppIcons-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
@@ -838,7 +839,7 @@
                 {
                     "version": "15.6.46",
                     "date": "2023-07-14",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/6/Stardew.Valley_15.6.46_decrypted.ipa",
                     "size": 298445907,
                     "minOSVersion": "13",
@@ -851,7 +852,7 @@
             "bundleIdentifier": "net.stfj.reallyBadChess.arcade",
             "developerName": "Zach Gage",
             "subtitle": "apple arcade game",
-            "localizedDescription": null,
+            "localizedDescription": "",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/40/5c/a7405c90-2e1a-4b30-d555-d85de424b19e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350bb.jpg",
             "screenshotURLs": [
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/8f/a5/9b/8fa59b4b-2911-90b8-a0f5-ff4044778e11/70925e4d-6168-4232-8eb4-b72809430493_iPhoneX-SC1.png/300x0w.jpg",
@@ -869,7 +870,7 @@
                 {
                     "version": "1.4.6",
                     "date": "2022-03-03",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/6/Really.Bad.Chess+_1.4.6_decrypted.ipa",
                     "size": 40702049,
                     "minOSVersion": "13.0",
@@ -895,7 +896,7 @@
                 {
                     "version": "2024.6",
                     "date": "2024-06-28",
-                    "localizedDescription": null,
+                    "localizedDescription": "",
                     "downloadURL": "https://github.com/tweakedipas/repo/releases/download/6/Outplayer-v2024.6-Tweakedipas.ipa",
                     "size": 14813177,
                     "minOSVersion": "15.0",
